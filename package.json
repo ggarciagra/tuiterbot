@@ -1,0 +1,31 @@
+{
+  "name": "twbot",
+  "description": "A robot that retweets the contents of an specific match content.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ggarciagra/twbot",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ggarciagra/twbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ggarciagra/twbot/issues"
+  },
+  "dependencies": {
+    "tuiter": "~0.2.12",
+    "express": "~4.9.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "author": {
+    "name": "Gustavo García",
+    "email": "ggarcia@gruporadioalegria.com",
+    "url": ""
+  },
+  "private": true,
+  "license": "MIT"
+}
